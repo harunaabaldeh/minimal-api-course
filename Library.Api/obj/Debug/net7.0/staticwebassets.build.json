@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "l9LY4eDN/xrzHI28AvJDmmvRt0iGZQKWzry0H7trwY0=",
+  "Source": "Library.Api",
+  "BasePath": "_content/Library.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Library.Api\\wwwroot",
+      "Source": "Library.Api",
+      "ContentRoot": "C:\\Users\\haruna\\RiderProjects\\MinimalApiCourse\\Library.Api\\wwwroot\\",
+      "BasePath": "_content/Library.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

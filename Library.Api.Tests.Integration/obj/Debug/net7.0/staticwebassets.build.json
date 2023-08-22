@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "Hash": "+sjr8mijQDSZMqVTTZkt+Gs6QhlPKiANUXf9ssnxowg=",
+  "Source": "Library.Api.Tests.Integration",
+  "BasePath": "_content/Library.Api.Tests.Integration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\haruna\\RiderProjects\\MinimalApiCourse\\Library.Api\\Library.Api.csproj",
+      "Version": 2,
+      "Source": "Library.Api",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Library.Api\\wwwroot",
+      "Source": "Library.Api",
+      "ContentRoot": "C:\\Users\\haruna\\RiderProjects\\MinimalApiCourse\\Library.Api\\wwwroot\\",
+      "BasePath": "_content/Library.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
